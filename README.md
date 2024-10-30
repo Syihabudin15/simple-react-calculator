@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# ReactJs Simple Calculator By Rafly Firmansyah
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to fulfill my duties as a student at Al-Masoem University
+`By Rafly Firmansyah`
+
 
 ## How To Start
 
