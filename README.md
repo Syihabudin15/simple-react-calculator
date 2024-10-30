@@ -10,4 +10,4 @@ This project was created to fulfill my duties as a student at Al-Masoem Universi
 - Buka di vscode
 - Buka terminal vscode
 - Ketikan perintah `npm install`, lalu tunggu hingga proses selesai
-- Ketikan perintah `npm start` , tunggu hingga muncul link untuk membuka halaman contoh `http://localhost:3000`
+- Ketikan perintah `npm start` , tunggu hingga muncul link untuk membuka halaman. contoh link: `http://localhost:3000`
